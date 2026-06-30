@@ -1,0 +1,8 @@
+{
+  "name": "NeuroChat Showcase",
+  "description": "An interactive presentation hub for NeuroChat: a fully Python-only AI chatbot. Includes a live chat preview, complete copyable Python code, architecture walk-throughs, and step-by-step public deployment guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
